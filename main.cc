@@ -1,8 +1,9 @@
-// Copyright 2018 Hanpil Kang
+// Copyright 2018 n.k.eun
 
 #include <stdio.h>
 
 int main(){
+	printf("hello world\n");
 	return 0;
 }
 
