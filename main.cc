@@ -13,6 +13,8 @@ int add(int a, int b)
 
 int main(){
 	printf("hello world!!!\n");
+	add(2, 3);
+	add(-2, -3);
 	return 0;
 }
 
